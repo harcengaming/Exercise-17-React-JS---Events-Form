@@ -4,7 +4,7 @@ import { useHistory } from 'react-router-dom';
 function Daftar() {
     const history = useHistory()
     
-    const [user, setUser] = useState({
+    const [user] = useState({
         firstName: '',
         lastName: '',
         email: '',

@@ -5,7 +5,7 @@ import './style.css';
 function Masuk() {
     const history = useHistory()
     
-    const [user, setUser] = useState({
+    const [user] = useState({
         email: '',
         password: ''
     })
