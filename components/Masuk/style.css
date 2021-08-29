@@ -1,0 +1,14 @@
+form {
+    background-color: gray;
+    color: yellow;
+    padding: 50px 0px 100px 0px;
+    margin: 45px 180px 90px 180px;
+}
+
+input {
+    width: 90%;
+}
+
+button {
+    width: 92%;
+}
