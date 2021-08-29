@@ -75,7 +75,7 @@ function Daftar() {
                     onChange={handleChange}
                 /><br />
 
-                <label htmlFor="">Kata Sandi</label>
+                <label htmlFor="">Kata Sandi</label><br />
                 <input 
                     type="password" 
                     name="password" 
